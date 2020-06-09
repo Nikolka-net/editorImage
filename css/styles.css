@@ -51,6 +51,7 @@ body {
   width: 100%;
 }
 
+
 .slider input {
   width: 100%;
 }
@@ -111,3 +112,4 @@ body {
   box-shadow: 0 6px 16px 0 rgba(0,0,0,.2);
   transform: translateY(-1px);
 }
+
